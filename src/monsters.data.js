@@ -1,0 +1,38 @@
+export default [
+  {
+    name: 'blob',
+    hp: null,
+    maxHp: 10,
+    speed: 2,
+    attack: 5,
+    defence: 5,
+    image: 'https://discordemoji.com/assets/emoji/PartyGlasses.gif',
+  },
+  {
+    name: 'bat',
+    hp: null,
+    maxHp: 5,
+    speed: 10,
+    attack: 2,
+    defence: 3,
+    image: 'https://media.giphy.com/media/WzdMvBhDx2DXW/giphy.gif',
+  },
+  {
+    name: 'worm',
+    hp: null,
+    maxHp: 8,
+    speed: 5,
+    attack: 5,
+    defence: 1,
+    image: 'http://paulrobertson.mechafetus.com/at/giantwormking_move.gif',
+  },
+  {
+    name: 'sheep',
+    hp: null,
+    maxHp: 20,
+    speed: 8,
+    attack: 2,
+    defence: 5,
+    image: 'https://i.gifer.com/3VpS.gif',
+  },
+];
